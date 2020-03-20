@@ -7,6 +7,12 @@ hr {
   border-width: 5px;
   width: 5%;
 }
-h1, h2 {
-  color: #2a7886
+h1 {
+  color: #2a7886;
+  font-size: 70px;
+
 }
+h2 {
+  color: #2a7886;
+}
+/******************************CLASS SELECTORS***************************/
